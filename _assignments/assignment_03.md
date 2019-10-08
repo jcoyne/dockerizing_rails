@@ -92,6 +92,6 @@ docker container prune
 
 
 # What changed
-You can find our changes in the [`initial_dockerfile`](https://github.com/jfahrer/dockerizing_rails/tree/initial_dockerfile) branch. [Compare it](https://github.com/jfahrer/dockerizing_rails/compare/initial_dockerfile) to the previous branch to see what changed.
+You can find our changes in the [`initial_dockerfile`](https://github.com/jcoyne/dockerizing_rails/tree/initial_dockerfile) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/initial_dockerfile) to the previous branch to see what changed.
 
 [Back to the overview](../README.md#assignments)

@@ -53,6 +53,6 @@ docker-compose run --rm app bin/wait-for-postgres
 Go ahead and try the scripts!
 
 # What changed
-You can find our changes in the [`scripts_to_rule_them_all`](https://github.com/jfahrer/dockerizing_rails/tree/scripts_to_rule_them_all) branch. [Compare it](https://github.com/jfahrer/dockerizing_rails/compare/spring...scripts_to_rule_them_all) to the previous branch to see what changed.
+You can find our changes in the [`scripts_to_rule_them_all`](https://github.com/jcoyne/dockerizing_rails/tree/scripts_to_rule_them_all) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/spring...scripts_to_rule_them_all) to the previous branch to see what changed.
 
 [Back to the overview](../README.md#assignments)

@@ -213,6 +213,6 @@ policy.connect_src :self, :https, "http://localhost:3035", "ws://localhost:3035"
 
 # What changed
 
-You can find our changes in the [`webpacker`](~https://github.com/jfahrer/dockerizing_rails/tree/webpacker~) branch. [Compare it](~https://github.com/jfahrer/dockerizing_rails/compare/sidekiq...webpacker~) to the previous branch to see what changed.
+You can find our changes in the [`webpacker`](~https://github.com/jcoyne/dockerizing_rails/tree/webpacker~) branch. [Compare it](~https://github.com/jcoyne/dockerizing_rails/compare/sidekiq...webpacker~) to the previous branch to see what changed.
 
 [Back to the overview](~../README.md#assignments~)

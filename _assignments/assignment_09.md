@@ -174,6 +174,6 @@ docker-compose exec app bash
 This will will open a shell in the running container for `app` service. This means that you now can use or install additional tooling to debug your application in an isolated environment.
 
 # What changed
-You can find our changes in the [`debugging`](https://github.com/jfahrer/dockerizing_rails/tree/debugging) branch. [Compare it](https://github.com/jfahrer/dockerizing_rails/compare/iterating...debugging) to the previous branch to see what changed.
+You can find our changes in the [`debugging`](https://github.com/jcoyne/dockerizing_rails/tree/debugging) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/iterating...debugging) to the previous branch to see what changed.
 
 [Back to the overview](../README.md#assignments)

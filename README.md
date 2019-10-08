@@ -9,7 +9,7 @@ Make sure to create a Docker ID if you don't have one already: https://hub.docke
 
 Clone this repository so that we can iterate on it later in the workshop:
 ```
-git clone https://github.com/jfahrer/dockerizing_rails
+git clone https://github.com/jcoyne/dockerizing_rails
 ```
 
 ### Testing your Docker installation
@@ -106,7 +106,7 @@ Throughout the workshop you will complete the following assignments:
 * [Assignment 14 - A seamless experience](_assignments/assignment_14.md)
 
 # TLDR - I just want to see a dockerized Rails app
-Check out the [`dockerized`](https://github.com/jfahrer/dockerizing_rails/tree/dockerized) branch and run `script/setup` to start the application.
+Check out the [`dockerized`](https://github.com/jcoyne/dockerizing_rails/tree/dockerized) branch and run `script/setup` to start the application.
 
 # Learning more
 ## Additional topics

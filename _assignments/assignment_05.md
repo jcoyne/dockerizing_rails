@@ -46,7 +46,7 @@ docker container run -it -p 127.0.0.1:3000:3000 --link pg \
 
 The environment variables that we pass in are used to configure the connection to our Postgres database. These environment variables are read in out `database.yml`.
 
-You might also have spotted the `--link` flag in our command. This flag allows us to talk to our Postgres container by its name `pg`. 
+You might also have spotted the `--link` flag in our command. This flag allows us to talk to our Postgres container by its name `pg`.
 
 > **Note**: We don't need to tell Docker which command we want to execute in the container because we made `rails server` the default in the prior assignment.
 
@@ -107,6 +107,6 @@ Things are going wrong? Let's make them work! Here are a couple of things to try
   ```
 
 # What changed
-You can find our changes in the [`integrating_postgres`](https://github.com/jfahrer/dockerizing_rails/tree/integrating_postgres) branch. [Compare it](https://github.com/jfahrer/dockerizing_rails/compare/rails_server...integrating_postgres) to the previous branch to see what changed.
+You can find our changes in the [`integrating_postgres`](https://github.com/jcoyne/dockerizing_rails/tree/integrating_postgres) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/rails_server...integrating_postgres) to the previous branch to see what changed.
 
 [Back to the overview](../README.md#assignments)

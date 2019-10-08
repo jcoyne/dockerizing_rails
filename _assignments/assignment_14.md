@@ -55,6 +55,6 @@ To work around this, we can use [Blitz](https://github.com/codetales/blitz), a z
 Check out the [README](https://github.com/codetales/blitz) and try setting it up if you are using MacOS.
 
 # What changed
-You can find our changes in the [`scripts_to_rule_them_all`](https://github.com/jfahrer/dockerizing_rails/tree/seamless) branch. [Compare it](https://github.com/jfahrer/dockerizing_rails/compare/scripts_to_rule_them_all...seamless_development) to the previous branch to see what changed.
+You can find our changes in the [`scripts_to_rule_them_all`](https://github.com/jcoyne/dockerizing_rails/tree/seamless) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/scripts_to_rule_them_all...seamless_development) to the previous branch to see what changed.
 
 [Back to the overview](../README.md#assignments)

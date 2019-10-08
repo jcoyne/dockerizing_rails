@@ -85,6 +85,6 @@ docker-compose up -d --build
 
 
 # What changed
-You can find our changes in the [`glueing_things_together`](https://github.com/jfahrer/dockerizing_rails/tree/glueing_things_together) branch. [Compare it](https://github.com/jfahrer/dockerizing_rails/compare/utilizing_layers...glueing_things_together) to the previous branch to see what changed.
+You can find our changes in the [`glueing_things_together`](https://github.com/jcoyne/dockerizing_rails/tree/glueing_things_together) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/utilizing_layers...glueing_things_together) to the previous branch to see what changed.
 
 [Back to the overview](../README.md#assignments)
