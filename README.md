@@ -2,8 +2,8 @@
 
 ## Preparing for the workshop
 Please make sure to install
-* Docker - https://hub.docker.com/search?q=&type=edition&offering=community
-* Git - https://git-scm.com/downloads
+* Docker Engine - Community => https://docs.docker.com/install/
+* Git => https://git-scm.com/downloads
 
 Make sure to create a Docker ID if you don't have one already: https://hub.docker.com/signup
 
