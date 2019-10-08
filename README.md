@@ -120,7 +120,7 @@ There are more topics that didn't quite fit into the workshop.
 * Deploying to Kubernetes
 And much more.
 
-Sign up at [RailsWithDocker.com](https://RailsWithDocker.com) and I'll shoot you an email as soon as the material is ready.
+Sign up at [RailsWithDocker.com](https://RailsWithDocker.com) and Julian will shoot you an email as soon as the material is ready.
 
 ## Resources
 * https://LearnDocker.online: Free resource with 11+ hours of video content teaching you everything I know about Docker and Containers.
@@ -137,4 +137,5 @@ Nothing better than practicing your newly acquired skills. I suggest that you do
 
 
 # Contributions
+Course developed by Julian Farher [@jfahrer](https://github.com/jfahrer/) and presented at RailsConf 2019.
 Special thanks to [@hjhart](https://github.com/hjhart) and [@palexvs](https://github.com/palexvs) for all their help with this workshop.
