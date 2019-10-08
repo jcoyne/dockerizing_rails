@@ -54,7 +54,7 @@ docker-compose -v
 
 The output of the command should look similar to this:
 ```
-docker-compose version 1.23.2, build 1110ad01
+docker-compose version 1.24.1, build 4667896b
 ```
 
 If you are running an older Version of Docker Compose or you are getting a `command not found`, please follow the installation instructions for Docker Compose: https://docs.docker.com/compose/install/
