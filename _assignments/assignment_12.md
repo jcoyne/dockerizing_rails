@@ -81,4 +81,6 @@ docker-compose logs --tail 25 -f web
 # What changed
 You can find our changes in the [`spring`](https://github.com/jcoyne/dockerizing_rails/tree/spring) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/webpacker...spring) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_13.md) |
+[Go to previous assignment](assignment_11.md) |
 [Back to the overview](../README.md#assignments)

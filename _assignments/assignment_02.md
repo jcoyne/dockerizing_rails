@@ -148,4 +148,6 @@ whoami
 
 Once you are done, you can exit the shell and quit the container by pressing `Ctrl-D`
 
+[Go to next assignment](assignment_03.md) |
+[Go to previous assignment](assignment_01.md) |
 [Back to the overview](../README.md#assignments)

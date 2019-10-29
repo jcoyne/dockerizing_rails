@@ -72,4 +72,6 @@ You should see the changes being reflected in the already running containers wit
 # What changed
 You can find our changes in the [`iterating`](https://github.com/jcoyne/dockerizing_rails/tree/iterating) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/glueing_things_together...iterating) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_09.md) |
+[Go to previous assignment](assignment_07.md) |
 [Back to the overview](../README.md#assignments)

@@ -30,7 +30,7 @@ docker-compose logs
 We can also append some additional flags to the `docker-compose logs` command. Use the `--help` option to find out more. Getting to know the `docker-compose logs` command will be __very help for debugging any issues__ that come up.
 
 ## Getting the app up and running
-Try browsing http://localhost:3000 - you will see that the database has not been migrated. That makes sense, we just created a whole new set of containers and volumes. 
+Try browsing http://localhost:3000 - you will see that the database has not been migrated. That makes sense, we just created a whole new set of containers and volumes.
 
 > **Note**: Docker Compose automatically prefixes all resources with the project name (the name of the current directory per default).
 
@@ -87,4 +87,6 @@ docker-compose up -d --build
 # What changed
 You can find our changes in the [`glueing_things_together`](https://github.com/jcoyne/dockerizing_rails/tree/glueing_things_together) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/utilizing_layers...glueing_things_together) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_08.md) |
+[Go to previous assignment](assignment_06.md) |
 [Back to the overview](../README.md#assignments)
