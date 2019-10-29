@@ -171,4 +171,6 @@ Add some todos and mark them as complete. You should see that jobs are being pro
 # What changed
 You can find our changes in the [`sidekiq`](https://github.com/jcoyne/dockerizing_rails/tree/sidekiq) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/debugging...sidekiq) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_11.md) |
+[Go to previous assignment](assignment_09.md) |
 [Back to the overview](../README.md#assignments)

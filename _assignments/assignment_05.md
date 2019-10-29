@@ -109,4 +109,6 @@ Things are going wrong? Let's make them work! Here are a couple of things to try
 # What changed
 You can find our changes in the [`integrating_postgres`](https://github.com/jcoyne/dockerizing_rails/tree/integrating_postgres) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/rails_server...integrating_postgres) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_06.md) |
+[Go to previous assignment](assignment_04.md) |
 [Back to the overview](../README.md#assignments)

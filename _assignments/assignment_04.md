@@ -80,4 +80,6 @@ docker container run -it -p 3001:3000 your_docker_id/rails_app:v1 rails s -b 0.0
 # What changed
 You can find our changes in the [`rails_server`](https://github.com/jcoyne/dockerizing_rails/tree/rails_server) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/initial_dockerfile...rails_server) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_05.md) |
+[Go to previous assignment](assignment_03.md) |
 [Back to the overview](../README.md#assignments)

@@ -57,4 +57,5 @@ Check out the [README](https://github.com/codetales/blitz) and try setting it up
 # What changed
 You can find our changes in the [`scripts_to_rule_them_all`](https://github.com/jcoyne/dockerizing_rails/tree/seamless) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/scripts_to_rule_them_all...seamless_development) to the previous branch to see what changed.
 
+[Go to previous assignment](assignment_13.md) |
 [Back to the overview](../README.md#assignments)

@@ -176,4 +176,6 @@ This will will open a shell in the running container for `app` service. This mea
 # What changed
 You can find our changes in the [`debugging`](https://github.com/jcoyne/dockerizing_rails/tree/debugging) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/iterating...debugging) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_10.md) |
+[Go to previous assignment](assignment_08.md) |
 [Back to the overview](../README.md#assignments)

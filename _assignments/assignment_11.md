@@ -156,7 +156,7 @@ And also let’s add in rails-ujs and turbolinks.
 docker-compose run --rm app yarn add rails-ujs turbolinks
 ```
 
-This adds it to your package.json file, and also locks the dependencies in the yarn.lock file. 
+This adds it to your package.json file, and also locks the dependencies in the yarn.lock file.
 
 
 We will need to expose some bootstrap dependencies on the `window` object in javascript, so let's add the following code to `config/webpack/environment.js`
@@ -215,4 +215,6 @@ policy.connect_src :self, :https, "http://localhost:3035", "ws://localhost:3035"
 
 You can find our changes in the [`webpacker`](~https://github.com/jcoyne/dockerizing_rails/tree/webpacker~) branch. [Compare it](~https://github.com/jcoyne/dockerizing_rails/compare/sidekiq...webpacker~) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_12.md) |
+[Go to previous assignment](assignment_10.md) |
 [Back to the overview](~../README.md#assignments~)

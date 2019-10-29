@@ -1,6 +1,6 @@
 # Assignment 3 - Running Rails
 
-For this and the remaining assignments, we will work with the demo application that is part of this repository. Make sure to __*change into the directory that you cloned this repository into*__ (see [here](../README.md#getting-started)). 
+For this and the remaining assignments, we will work with the demo application that is part of this repository. Make sure to __*change into the directory that you cloned this repository into*__ (see [here](../README.md#getting-started)).
 
 ## The Dockerfile
 Just as before, we will create a `Dockerfile` **inside the demo applications directory**:
@@ -94,4 +94,6 @@ docker container prune
 # What changed
 You can find our changes in the [`initial_dockerfile`](https://github.com/jcoyne/dockerizing_rails/tree/initial_dockerfile) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/initial_dockerfile) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_04.md) |
+[Go to previous assignment](assignment_02.md) |
 [Back to the overview](../README.md#assignments)

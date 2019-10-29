@@ -42,4 +42,6 @@ To make sure it works, let's make a small change to our source code. Simply add 
 # What changed
 You can find our changes in the [`utilizing_layers`](https://github.com/jcoyne/dockerizing_rails/tree/utilizing_layers) branch. [Compare it](https://github.com/jcoyne/dockerizing_rails/compare/integrating_postgres...utilizing_layers) to the previous branch to see what changed.
 
+[Go to next assignment](assignment_07.md) |
+[Go to previous assignment](assignment_05.md) |
 [Back to the overview](../README.md#assignments)
